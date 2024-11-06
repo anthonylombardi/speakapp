@@ -1,0 +1,82 @@
+id: 1
+name: Group1
+
+ Are you married?
+ Yes, I am.
+ Have you got any children?
+ Yes, I have.
+ I've got two sons.
+ This is my husband.
+ His name's Thomas.
+ These are our sons.
+ Their names are Daniel and Terence.
+ How old are they?
+ Daniel's nineteen,
+ and Terence is twenty / one
+ twenty-thirty 
+ forty / fifty
+ sixty-seventy 
+ eighty / ninety
+ That's all for now.
+ Any questions?
+ Could you tell me...
+ where I can get a ticket?
+ Do you know...
+ if the last train has left?
+ Most accidents...
+ are in the home.
+ Most of them...
+ could easily be avoided.
+ Thank you so much for all you've done.
+ You've been very kind.
+ I really appreciate it.
+ It was nothing.
+ I'm glad I could help.
+ That's what friends are for.
+ Max and I...
+ have been friends for years.
+ We've known each other...
+ since we were at school.
+ We still keep in touch by e-mail.
+ It's been a wonderful evening.
+ I had a really good time.
+ It was a pleasure.
+
+===
+id: 2
+name: Group 2
+
+  I do hope...
+ you'll come again soon.
+ The results of ... 
+ the election were disappointing.
+ You look like you've had a bad day.
+ Is there a post office near here?
+ Yes, it's in the next street...
+ near the church.
+ Where's the men's department?
+ It's upstairs...
+ on the first floor.
+ Where are the stairs?
+ They're over there.
+ Can I help you?
+ Just looking, thank you.
+ How much is this shirt?
+ How much are those sunglasses?
+ How much is it?
+ How much are they?
+ Sorry I'm late.
+ The traffic's terrible today.
+ I don't think you've met my wife.
+ No. We have never met.
+ I've heard so much about you.
+ In a way,
+ I feel I already know you.
+ They've closed the centre of town to traffic.
+ How long has it been closed?
+ Since Sunday.
+ Do you know...
+ if the printer's been fixed yet?
+ No, it still isn't working.
+ Lightning never strikes...
+ in the same place twice.

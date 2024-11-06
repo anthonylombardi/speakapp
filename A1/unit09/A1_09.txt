@@ -1,0 +1,72 @@
+id: 1
+name: Part 1
+
+Did you enjoy the film last night?
+ Yes, we did.
+ How long did it last?
+ About two-hours.
+ It finished after midnight.
+ Afterwards,
+ we walked home.
+ I phoned - I didn't phone
+ we arrived - we didn't arrive
+ they moved - they didn't move
+ I enjoy walking...
+ but I don't enjoy jogging at all.
+ Did you have a good holiday?
+ Yes, I had a wonderful time.
+ Where did you go?
+ I went to Thailand.
+ How long were you there?
+ I was there for two weeks.
+ What was the weather like?
+ It was perfect.
+ Is it as beautiful as they say?
+ Yes, it is.
+ Are you glad to be back?
+ Yes, I am.
+ Kathy went to Mexico...
+ for her holiday.
+ She stayed in Mexico City...
+ for two days,
+ then she spent a week...
+ on an island...
+ in the Caribbean Sea.
+ Do you want to go swimming?
+ Do you want to go shopping?
+
+===
+id: 2
+name: Part 2
+
+ I have to go now.
+ I have to meet Bob...
+ at seven.
+ I see - I saw
+ I come - I came
+ Tell me about the party.
+ Did you have a good time?
+ Did you meet...
+ any interesting people?
+ Yes, I met a very nice girl.
+ What was her name?
+ Her name was Julia.
+ Where was she from?
+ Russia.
+ I think - I thought
+ I buy - I bought
+ I missed the bus.
+ I had to walk.
+ What did you do...
+ on Saturday afternoon?
+ I went shopping.
+ I bought some new clothes.
+ What did you buy?
+ I bought a jacket...
+ and a pair of shoes.
+ What about Saturday evening?
+ What did you do?
+ Where did you go?
+ I went dancing.
+ Did you have a good time?
+ Yes, I had a great time.

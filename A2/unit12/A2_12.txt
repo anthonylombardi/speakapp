@@ -1,0 +1,75 @@
+id: 1
+name: Part A
+
+Who did you invite to the party?
+How much champagne do we need?
+Have we got enough glasses?
+Have we got enough food?
+10th April 1901
+3rd June 1999
+How much money...
+do you spend every month?
+How many credit cards...
+do you have?
+Do you listen to the radio?
+Can I look at your paper?
+Could you wait for me, please?
+Germany is bigger than Austria.
+Portugal is smaller than Spain.
+When's your birthday?
+On the twenty-fourth of October.
+Who wrote ‘Alice in Wonderland’?
+When was it written?
+Which river is longer:
+the Tiber or the Thames?
+What's the tallest building in New York?
+Italian wine...
+is exported worldwide.
+English and French...
+are spoken in Canada.
+Who do you know in Quebec?
+What did you study...
+at university?
+I studied biology.
+When did you graduate?
+I graduated two years ago.
+
+===
+id: 2
+name: Part B
+
+Which is more difficult:
+Korean or Japanese?
+I don't know.
+Which is bigger:
+Tokyo or Shanghai?
+I'm not sure.
+That's a difficult question.
+Steve lived in Rome...
+when he was a little boy.
+His father was a journalist.
+His mother worked...
+at the British Embassy.
+Steve went to an international school.
+He can speak English,
+French and Italian.
+Now he wants to study...
+political science... at university.
+What did you do last summer? We went to Australia.
+We stayed there for a month,
+then we spent a week...
+in New Zealand.
+The weather wasn't bad,
+but it was cold in the south.
+When it's summer in Europe...
+it's winter in Australia.
+It's cold in winter.
+It's warm in spring.
+It's hot in summer.
+It's cool in autumn.
+Did you enjoy the show?
+Yes, I did.
+It was better than I expected.
+Was the test difficult?
+No, it wasn't.
+It was easier than I thought.

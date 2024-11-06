@@ -1,0 +1,74 @@
+id: 1
+name: Part 1
+
+ How do you spell ‘Friday’?
+ F R I D A Y.
+ How do you spell ‘law’?
+ L A W
+ What does this word mean?
+ How do you pronounce...
+ the last letter...
+ of the alphabet?
+ Do you like sailing?
+ Yes, I do.
+ Have you got a boat?
+ Yes, I have.
+ What kind of films do you like?
+ Thrillers and comedies, mainly.
+ What about westerns...
+ and adventure films?
+ I can't stand them.
+ I love these sandwiches.
+ Yes, they are delicious.
+ I like your jacket.
+ Oh, thank you.
+ Do you work at home?
+ Yes, I do.
+ Have you got a car?
+ Yes, I have.
+ What kind is it?
+ It's a Mercedes-Benz.
+ Has it got a diesel engine?
+ No, it hasn't.
+ Pam likes going to the cinema.
+ She doesn't like going to concerts.
+ She often goes to the theatre.
+
+===
+id: 2
+name: Part 2
+
+She likes sailing...
+ but she doesn't like swimming.
+ She's not a good swimmer.
+ Does he like skiing?
+ Yes, he does.
+ Does he like tennis?
+ No, he doesn't.
+ He never plays tennis.
+ We like our new apartment.
+ It's got a wonderful view.
+ What a beautiful room!
+ What beautiful flowers!
+ Do you prefer wine or beer?
+ I prefer wine.
+ Does she prefer tea or coffee?
+ She prefers tea.
+ I always have fruit...
+ for breakfast.
+ I like reading novels.
+ I don't like writing letters.
+ We never watch TV.
+ Do you like Irish whiskey?
+ Yes, I quite like it.
+ What do you do?
+ I'm a graphic artist.
+ I work...
+ for an advertising agency.
+ I design posters.
+ What does your friend do?
+ He's an accountant...
+ with an export agency.
+ What's he like?
+ He is tall and slim.
+ He looks like an athlete.

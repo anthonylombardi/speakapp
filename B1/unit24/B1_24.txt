@@ -1,0 +1,81 @@
+id: 1
+name: Group1
+
+ Our company is moving to Shanghai.
+They want us to be there…
+by the end of the year.
+How do you feel about it?
+ It's certainly worth trying.
+ I hate leaving things...
+ till the last minute.
+ I prefer to finish everything...
+ in plenty of time.
+ Time's up!
+ Hand in your papers.
+ What time's our plane?
+ Have you got the tickets?
+ I'm not sure.
+ Hurry up!
+ Where's the Underground station?
+ It's on the corner,
+ across the street.
+ Is Sally from Australia?
+ No, she's not.
+ She's from South Africa.
+ Am I right?
+ No, I'm afraid you're wrong.
+ Where have you been?
+ I've been waiting for you...
+ for more than an hour.
+ I'll never forgive you.
+ That's not fair.
+ Try looking at it...
+ from my point of view.
+ I'd advise you...
+ to contact a lawyer.
+ The insurance company...
+ has agreed to pay...
+ all the medical expenses.
+
+===
+id: 2
+name: Group 2
+
+ Nobody ever phones me.
+ Nothing nice ever happens.
+ So this is where you live!
+ Nice place!
+ When did you move in?
+ I've been living here...
+ since I came to London.
+ Make yourself at home.
+ Help yourself to a drink.
+ There's either white wine...
+ or fruit juice.
+ Sorry about the mess.
+ I hate doing housework.
+ It's boring and repetitive.
+ I think so too.
+ Would you like me...
+ to do the washing up?
+ Come and spend next weekend...
+ at our cottage by the sea.
+ We love having guests...
+ and we've got plenty of room.
+ The most convenient train to catch...
+ leaves at ten.
+ I'll come and pick you up...
+ at the station.
+ It's very kind of you...
+ to invite us.
+ Will Dave be at the meeting?
+ He might be,
+ but I very much doubt it.
+ What do you think I should do?
+ I wouldn't do anything.
+ I'd wait and see what happens.
+ You never know,
+ his story might even be true.
+ Electronic devices...
+ may not be used...
+ during the flight.

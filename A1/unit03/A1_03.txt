@@ -1,0 +1,69 @@
+id: 1
+name: Part 1
+
+Excuse me.
+Where's the high school?
+It's over there,
+across the square.
+Good afternoon.
+I'm here for the meeting.
+Am I late?
+No, it's only three-forty five.
+On the left.
+On the right.
+On the corner.
+What time is it?
+It's exactly seven-thirty.
+Pardon me.
+Where's the children's department?
+It's upstairs.
+They're downstairs...
+on the ground floor.
+Where are the stairs?
+Where's the exit?
+Is there a lift?
+Is there an elevator?
+the first floor
+the second floor
+the third floor
+the fourth floor
+How much is this jacket?
+How much is that shirt?
+How much are these earrings?
+How much are those sunglasses?
+How much is it?
+
+===
+id: 2
+name: Part 2
+
+ Have you got it in blue?
+ How much are they?
+ Have you got them in brown?
+ Can I help you?
+ Just looking, thank you.
+ Excuse me.
+ Is there a post office...
+ near here?
+ Yes, it's in the next street,
+ near the church.
+ Is there a bank...
+ near the station?
+ No, there isn't.
+ Sorry I'm late.
+ The traffic's terrible today.
+ That's all right.
+ It's only ten twenty five.
+ You're only ten minutes late.
+ What's your friend's address?
+ What's their address?
+ What's Scarlett's last name?
+ What's her last name?
+ Carter.
+ C A R T E R.
+ Has Tom got a mobile phone?
+ Have you got his number?
+ 357 0824
+ There's a coffee bar...
+ on the corner...
+ near the supermarket.

@@ -1,0 +1,69 @@
+id: 1
+name: Group1
+
+ Hello.
+ My name is Mary.
+M A R Y
+ I'm a student,
+ an Italian student.
+ This is Nick Mason.
+ He's my teacher,
+ my English teacher.
+ He's American,
+ from Chicago.
+ Hi! I'm Silvia Williams.
+ I'm an engineer.
+ I'm Australian ...
+ from Sydney.
+ This is Anna White.
+ W H I T E
+ Anna's my colleague.
+ She's a good friend.
+ She's American ...
+ from New York.
+ Good evening.
+ This is my friend Paula.
+ Paula's Canadian.
+ She's from Toronto.
+ Nice to meet you, Paula.
+ one, two, three, four
+ five, six, seven, eight
+ nine, ten, eleven, twelve
+ It's late.
+ I'm tired.
+ Good night.
+===
+id: 2
+name: Group 2
+
+Good morning!
+This is your radio station...
+K Y O U.
+It's a beautiful day.
+Good afternoon.
+My name's Bob Harris.
+I'm your pilot today.
+This is the flight
+to London.
+Have a nice day.
+Hello.
+Hi, how are you?
+Fine, thanks, and you?
+I'm OK, thanks.
+Well, have a nice day!
+Bye Bye.
+See you later.
+What's his name?
+His name is Stephen.
+What's her name?
+Her name is Martha.
+Are you hot?
+No, I'm cold...
+and I'm hungry.
+Excuse me,
+are you Linda Watson?
+Yes, that's right.
+Hello, Ms Watson.
+I'm from the Argo Agency.
+Welcome to China.
+Thank you.

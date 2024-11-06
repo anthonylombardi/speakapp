@@ -1,0 +1,66 @@
+id: 1
+name: Part 1
+
+What they said was appealing.
+I heard everything that they said.
+I wrote down exactly what she wanted.
+We listened attentively to the presentation.
+Although I didn't understand a word he said.
+It was as if I hadn't listened to what he said.
+I really don't know where she gets her ideas from.
+We couldn't make out what she was talking about.
+Does she always insist when they don't give in?
+Who attends classes there?
+I don't know who attends classes there.
+What happened?
+Please tell me what happened.
+Who's at the door?
+I wonder whose house that is.
+What did she say?
+What she said surprised me.
+What should they do?
+What they should do is obvious to me.
+I don't know what I should do.
+I don't know what to do.
+Pam can't decide whether she should go or stay at home.
+She can't decide whether to go or stay home.
+Please tell me how I can get to the bus station.
+Scarlett told us where we could find it.
+She told us precisely where to find it.
+I'd better have a look at you.
+It may not be anything serious...
+but you can't be too careful.
+I'm the only one...
+who hasn't got it.
+
+===
+id: 2
+name: Part 2
+
+When I finish this report...
+I'll have to do the accounts.
+It's a job that has to be done...
+but it's not a job I enjoy.
+I met someone last night...
+who knows you.
+Would you like to join us for dinner?
+She's an excellent actress.
+That is to say, I think she's an excellent actress.
+I also think that he's a pretty good actor, too.
+Some people don't understand spoken English.
+That she doesn't understand spoken English is obvious.
+It's obvious that she doesn't understand spoken English.
+The world is round.
+Everyone knows that the world is round.
+That the world is round is a fact.
+It's a fact that the world is round.
+However, there's a website dedicated to the flat earth.
+She said, "My brother is a businessman."
+"My brother," she said, "is a businessman."
+"My sister's a student. She attends Harvard," he said.
+"My sister's a student," he said. "She attends Harvard."
+She asked, "When will you be here?"
+"When will you be here?" she asked.
+She said, "Watch out!"
+"A man is known by the company he keeps," said Anna.
+"A man is known," said Anna, "by the company he keeps."

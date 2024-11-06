@@ -1,0 +1,82 @@
+id: 1
+name: Group1
+
+Do you see what I mean?
+Do you think I'm right?
+Do you agree?
+Not necessarily.
+I asked them how they felt...
+about their relationship.
+What did they say?
+She said...
+she'd never been so happy.
+He said...
+he'd always remember...
+the first time they'd met.
+They were both casually dressed.
+He was wearing jeans and a T-shirt.
+She had on denim shorts...
+and a blue tank top.
+Flying always makes me nervous.
+Really? I find it relaxing!
+Have you got a moment?
+Can I ask you some questions?
+Sure, go ahead.
+How do you get to work?
+I usually walk.
+Sometimes I take the bus.
+Haven't you got a car?
+Yes, but I don't use it...
+to go to the office.
+What time do you leave home?
+About seven-thirty.
+What do you do?
+I work for London Transport.
+What an interesting job!
+It was one of those times...
+when everything seemed to go wrong.
+
+===
+id: 2
+name: Group 2
+
+The airline lost our luggage.
+Then we missed the ferry.
+Most of the hotels and restaurants...
+were closed for the winter.
+The ones that were open...
+were so expensive...
+that we almost ran out of money.
+It was too cold to go swimming.
+Fran was feeling homesick.
+In the end...
+we came home a week early.
+There are only two or three people here...
+whose names I know.
+Who's that tall, good looking guy?
+Which one?
+The one with the fabulous tan.
+That's Brad Somebody or Other.
+I don't really know him.
+And who's the pretty girl...
+in the sexy red dress?
+That's Nancy, my neighbour.
+She's awfully nice.
+I'll introduce you to her...
+if you like.
+First, tell me everything...
+you know about her.
+You'll have a great party...
+if you plan it carefully.
+Find an evening...
+when all of your friends are free.
+Work out exactly what you need...
+and what it's going to cost.
+Thanks for the advice.
+I don't know...
+what I'd do without you.
+It sounds too good to be true.
+Don't call before noon.
+I'm going to sleep in tomorrow.
+Which book did you buy in the end?
+The one you recommended.

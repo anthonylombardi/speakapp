@@ -1,0 +1,81 @@
+id: 1
+name: Group1
+
+Could you tell me...
+ when to get off for...
+ Trafalgar Square?
+ Who is it?
+ It's me, Jessica.
+ Oh, I didn't recognise your voice.
+ I've got room in my car...
+ for one more person
+ Wouldn't it be fun...
+ to learn sailing!
+ It would probably be...
+ horribly expensive.
+ a three-month course
+ a two-day workshop
+ a weekend's fun
+ Try and get some sleep -
+ you have a long day tomorrow.
+ Can you use a computer?
+ Can you drive a car?
+ Are you a good driver?
+ Are you good at sports?
+ What foreign languages can you speak?
+ Have you got any references?
+ I can't come to the meeting...
+ this afternoon.
+ I'm very busy.
+ Can you speak more slowly?
+ Can you repeat that?
+ Can I see you after the lesson?
+ Thank you very much.
+ Tell us exactly what happened.
+ Dinner was over...
+ and several of the guests...
+ had ordered drinks.
+
+===
+id: 2
+name: Group 2
+
+ I saw a woman...
+ come into the bar.
+ Then I heard the noise.
+ It sounded like a gunshot.
+ Somebody screamed.
+ The woman was lying on the floor.
+ At first...
+ I thought she was dead.
+ I got such a fright...
+ I dropped the tray of glasses.
+ I've just come back...
+ from a week in South Africa.
+ Really? Lucky you!
+ What was it like?
+ The scenery is incredible...
+ and the beaches are fantastic.
+ We went scuba diving.
+ You didn't!
+ That must have been such fun!
+ It was amazing.
+ Hopefully,
+ we'll go back at Easter.
+ Apparently,
+ it's the best time to go.
+ The doctor told me...
+ to unbutton my shirt.
+ Then he asked me...
+ to take a deep breath.
+ She said she'd waited...
+ the whole afternoon.
+ He phoned to say...
+ he'd been caught in the traffic.
+ I failed my driving test...
+ for the third time
+ Oh, poor you!
+ That must have been...
+ so disappointing.
+ The book was so gripping...
+ I couldn't put it down.

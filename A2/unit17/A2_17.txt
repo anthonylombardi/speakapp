@@ -1,0 +1,72 @@
+id: 1
+name: Part A
+
+Do you feel better this morning?
+ No, I've still got a temperature.
+ Shall I phone the doctor?
+ That's a good idea.
+ But the surgery isn't open yet.
+ Well, I'll phone in half an hour.
+ Why don't you stay in bed...
+ and try to sleep?
+ I think you should take...
+ another pill.
+ I'll get you a glass of water.
+ Here you are.
+ What's the problem?
+ I've got a terrible pain...
+ in my back.
+ Do your legs hurt too?
+ Yes, they do.
+ I can hardly walk.
+ Have you had this before?
+ Yes, I get it about once a year.
+ Here's the prescription.
+ Take one tablet after every meal.
+ Thank you, doctor.
+ How long should I take them for?
+ Ten days should be enough.
+ I can't play golf.
+ Can you teach me?
+ Hold the club like this.
+ Put your left hand here...
+ and your right hand here.
+ Keep your feet apart...
+ and your head down.
+ And keep your eye on the ball.
+ Today's Tuesday, isn't it?
+
+===
+id: 2
+name: Part B
+
+Do you need the car?
+ No, I don't need it today,
+ but I'll need it tomorrow...
+ to take Jenny to the doctor.
+ She gave the book to her son.
+ She gave her son the book.
+ He bought some flowers for his mother.
+ He bought his mother some flowers.
+ Jack hurt his leg...
+ playing football yesterday.
+ Is the surgery open?
+ Not yet.
+ Is Emily still on holiday?
+ Yes, she won't be back till Monday.
+ once a day
+ twice a week
+ three times a month
+ I've been with this company...
+ for twenty five years.
+ I've lived in this city...
+ all my life.
+ I've always wanted...
+ to go to South America,
+ but I've never been able...
+ to afford it.
+ How long have you had this car?
+ I've only had it...
+ for a couple of months.
+ I bought it two months ago.
+ have - had - had

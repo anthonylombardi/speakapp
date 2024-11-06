@@ -1,0 +1,79 @@
+id: 1
+name: Group1
+
+Will you change seats with me?
+ I can't see a thing.
+ Brainstorming is an excellent way...
+ of finding creative solutions.
+ Thank you for your time.
+ I'll see you to the door.
+ His parents...
+ want him to be an actor,
+ but he wants to be a lawyer.
+ Anne doesn't have a credit card...
+ so as not to have debts.
+ I'm going to grow a beard.
+ Do you think it will suit me?
+ We're going to have to shut the window...
+ to keep out the mosquitoes.
+ I'm afraid we won't be able...
+ to come on Monday.
+ Excuse me, are you Linda Wilson?
+ Yes. that's right.
+ I'm from the Argo Agency.
+ Welcome to Italy.
+ What's his first name?
+ What's her last name?
+ What's his address?
+ Are you hot?
+ No, I'm cold...
+ and I'm hungry.
+ It's not a long flight.
+ It's not very far.
+ thirteen-fourteen
+ fifteen-sixteen
+ seventeen-eighteen
+ nineteen
+ The other evening...
+ we were eating in a restaurant...
+ when something funny happened.
+
+===
+id: 2
+name: Group 2
+
+ A young man came in...
+ and asked the cashier...
+ for all the money...
+ in the cash register.
+ The cashier explained to him...
+ that she couldn't open it...
+ unless he ordered something.
+ The young man said...
+ he wasn't hungry...
+ and left.
+ Excuse me.
+ Sorry?
+ I think you're sitting in my seat.
+ I'm sorry, I thought it was free.
+ Would you mind moving your bag?
+ I can't get past.
+ I'm sorry, I didn't see you.
+ Guess what!
+ I saw Sally last week...
+ at Barbara's birthday party.
+ I didn't know she was in town.
+ I thought she was away.
+ She said she was pleased to be back.
+ Your phone was busy...
+ Who were you talking to?
+ I was chatting on the Internet.
+ Where were you born?
+ I was born in Brisbane...
+ but I grew up in Sydney
+ Would you mind...
+ giving me a lift to the station?
+ Sure.
+ I'll pick you up at eight.
+ What are we waiting for?
+ We're waiting for you, actually.

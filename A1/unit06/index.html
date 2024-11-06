@@ -1,0 +1,178 @@
+<!doctype html>
+<html>
+<head><meta charset="us-ascii">
+	<title></title>
+	<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+	<link href="favicon.ico" rel="shortcut icon" type="image/x-icon" />
+	<link href="../../index.css" rel="stylesheet" />
+	<link href="//fonts.googleapis.com/css?family=Montserrat:thin,extra-light,light,100,200,300,400,500,600,700,800" rel="stylesheet" type="text/css" /><script type="text/javascript">
+		setTimeout(function() {
+			if(!document.querySelector('#page-start #loading')) 
+				return;
+
+			alert('There are some problems. Use the last version of Google Chrome browser to avoid them.');	
+		}, 10000);
+	</script><script src = "../../diff_match_patch.js"></script><script src = "index.js"></script>
+</head>
+<body>
+<div id = "page-start" class = "page center" current>
+			<div class = "content">
+				<div id = "power-by">Start your VirtuAule Speak Practice here.</div>
+				<a id = "logo" href = "https://virtuaule.com/images/speechPractice_530x466.png"></a>
+<div class = "content2"><ol><li>Set the options (after START - upper right menu)</li><li>Select the group ((upper left hamburger icon menu)</li><li>Read each phrase. You can listen as an option.</li><li>Press 'Record'</li><li>Go to the next phrase if your pronunciation is correct.</li><li>Do Part 1 and Part 2.</li></ol></div>
+				<div id = "loading">Loading...</div>
+				<div id = "microphone">Allow access to microphone...</div>
+				<div id = "button-start">Start</div>
+			</div>
+		</div>	
+
+<div back="start" class="page absolute" id="page-main">
+<div class="caption">
+<div id="button-text-selector"></div>
+
+<div class="caption-button" id="button-help">Help</div>
+
+<div class="caption-button" id="button-option">Option</div>
+</div>
+
+<div class="content">
+<div id="panel-counter">
+<div class="button-arrow" id="button-prev-phrase">&#9668;</div>
+<input id="phrase-number-input" type="number" />
+<div id="phrase-number"></div>
+
+<div class="button-arrow" id="button-next-phrase">&#9658;</div>
+
+<div id="caption"></div>
+</div>
+
+<div id="panel-phrase">
+<div id="phrase"></div>
+</div>
+
+<div id="panel-recognition">
+<div id="recognition" title="Google Speech Recognition result and its cofficient of the recognition confidence"></div>
+
+<div id="compare"></div>
+
+<div id="panel-record">
+<div class="button" id="button-listen">Listen</div>
+
+<div class="button" id="button-record">Record</div>
+</div>
+</div>
+</div>
+</div>
+
+<div class="page absolute" id="page-text-selector">
+<div class="caption">
+<div class="left" id="button-text-add">New</div>
+
+<div back="main" class="close"></div>
+</div>
+
+<div class="content">
+<div id="texts"></div>
+
+<div id="text-wrapper">
+<div autocomplete="off" id="text"></div>
+</div>
+</div>
+</div>
+
+<div class="page absolute" id="page-text-add">
+<div class="caption">
+<div class="left" id="button-text-save">Save</div>
+
+<div back="text-selector" class="close"></div>
+</div>
+
+<div class="content content-padding">
+<div id="caption-block"><input autocomplete="off" id="caption" placeholder="Caption" /></div>
+
+<div id="button-load-file">File...</div>
+
+<div id="text-block"><textarea autocomplete="off" id="text" placeholder="Text"></textarea></div>
+</div>
+<input id="upload" type="file" /></div>
+
+<div class="page absolute" id="page-text-view">
+<div class="caption">
+<div></div>
+
+<div back="text-selector" class="close"></div>
+</div>
+
+<div class="content content-padding"></div>
+</div>
+
+<div class="page center" id="page-option">
+<div class="caption">
+<div>Option</div>
+
+<div back="main" class="close"></div>
+</div>
+
+<div class="content">
+<div class="selector col2" default="yes" id="speech-auto-next" title="Auto move to next phrase">
+<div value="no">No</div>
+
+<div value="yes">Yes</div>
+</div>
+
+<div class="selector col2" default="yes" id="speech-success-ring" title="Success ring enable">
+<div value="no">No</div>
+
+<div value="yes">Yes</div>
+</div>
+
+<div class="selector col2" default="no" id="speech-auto-read" title="Auto read phrase">
+<div value="no">No</div>
+
+<div value="yes">Yes</div>
+</div>
+
+<div class="selector" id="speech-voice" title="Voice"></div>
+
+<div class="selector col5" default="1" id="speech-voice-speed" title="Voice speed">
+<div value="0.7">0.7</div>
+
+<div value="0.8">0.8</div>
+
+<div value="0.9">0.9</div>
+
+<div value="1">1</div>
+
+<div value="1.1">1.1</div>
+</div>
+</div>
+</div>
+
+<div class="page absolute" id="page-help">
+<div class="caption">
+<div>Help</div>
+
+<div back="main" class="close"></div>
+</div>
+
+<div class="content content-padding">
+<p>This is an application for the practice of English speech via Google Speech Recognition API:</p>
+
+<ul>
+	<li>Push the &quot;Record&quot; button and hold it while you read aloud a phrase on the screen.</li>
+	<li>The voice will be recognized via <a href="https://developer.mozilla.org/ru/docs/Web/API/Web_Speech_API">Web Speech API</a> and you will see differences between required and recognized phrases.</li>
+	<li>Listen to your voice by clicking on the green &quot;Listen&quot; button after the app has detected the defects in your pronunciation.</li>
+</ul>
+
+<p><b>Keep in mind</b><br />
+Recognition does not always work well.<br />
+Some phrases can be recognized incorrectly even with perfect pronunciation. If you have attempted 3 times without success, use the arrow button to go to the next phrase.</p>
+
+<p><b>Recommendation</b><br />
+Use a high-quality headset with microphone to improve recognition.</p>
+
+<p>If you have any questions, comments or suggestions, just let me know <a href "mailto: "info@virtuaule.com">info@virtuaule.com</a>.</p>
+</div>
+</div>
+</body>
+</html>

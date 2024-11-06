@@ -1,0 +1,67 @@
+id: 1
+name: Part A
+
+I felt terrible after lunch.
+ I hope you feel better soon.
+ I hope you can come to the party.
+ a table lamp
+ an alarm clock
+ a bath towel
+ a bottle opener
+ Have you got a double room...
+ for tonight and tomorrow night?
+ How much is the room?
+ £ one hundred twenty a night.
+ Do you take credit cards?
+ Yes, of course.
+ Could you sign the register?
+ Here's your key.
+ What time is breakfast?
+ Where's the dining room?
+ Could you call me...
+ at six-thirty, please?
+ Certainly, sir.
+ We have to check in...
+ an hour before the flight.
+ There's nothing to eat in the house.
+ Shall we eat out tonight?
+ Where did you get that camera?
+ I got it in Hong Kong last year.
+ How long...
+ are you going to be in Venice?
+ Two or three nights,
+ I'm not sure.
+ Listen! The phone's ringing.
+ Shall I answer it?
+ No, I'll go.
+
+===
+id: 2
+name: Part B
+
+Hello, room service?
+ Can I order something for...
+  room seventeen?
+ What would you like to order?
+ Just coffee and biscuits for two.
+ Thank you, madam.
+ It'll be ready...
+ in a few minutes.
+ Bob should be in the office...
+ from ten to twelve.
+ They won't know...
+ the results of their exams...
+ until next week.
+ We leave Sydney...
+ At ten a.m. ...
+ and we get to Perth...
+ At six p.m.
+ My boss is leaving for Tokyo...
+ at nine a.m. on Wednesday.
+ She's coming back...
+ at the end of next week.
+ Dr Blake gave a lecture...
+ on computer science.
+ I understood everything.
+ You should try to study ...
+ at least an hour a day.

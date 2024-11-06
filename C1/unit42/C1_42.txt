@@ -1,0 +1,64 @@
+id: 1
+name: Part 1
+
+My friend enjoyed the party.
+The student studies in the library.
+We appreciated your help in the matter.
+We went to the zoo in the afternoon.
+Does he live in Chicago?
+No, he doesn't.
+Where does he live?
+I'm not completely sure, 
+but I believe in Detroit.
+Will she be living there?
+Where will she be living?
+Who lives there?
+How are things?
+Pretty terrible, actually.
+My car won't start and my clients won't pay.
+We're going to have to shut the window...
+to keep out the mosquitoes.
+I'm afraid we won't be able...
+to come on Monday.
+When's the deadline?
+Everything will have to be ready...
+by the end of August.
+All the information you need...
+is in these folders.
+Brainstorming is an excellent way...
+of finding creative solutions.
+
+===
+id: 2
+name: Part 2
+
+David graduates in June.
+Nevertheless, I won't see you till July.
+Consequently, by the time I see you,
+David will have already graduated.
+In March, Michael will be living in Shanghai.
+He'll have been living there for two months ...
+by the time the company transfers.
+When Professor Jones retires next month,
+he'll have taught for four years.
+When Professor Lee retires next month,
+she'll have been teaching for three years.
+The baby woke up when the phone rang.
+After she graduates she'll get a job.
+After he'd graduated, he got a job.
+When I arrived, he was talking to Julia.
+By the time I got there, he had already left.
+As soon as I see him tomorrow, I'll ask him.
+As I was walking home, it began to rain.
+I haven't seen him since he left this morning.
+I've known Marc ever since I was a child.
+We stayed there until we finished our work.
+As soon as it stops raining, we'll leave.
+I'll never speak to him again as long as I live.
+Whenever I see Alex, I say hello.
+The first time I visited Milan,
+I went to an opera.
+The next time I go to Saint Petersburg,
+I' m going to see a ballet.
+Do unto others as you would have them do unto you.
+Give him an inch and he'll take a mile.

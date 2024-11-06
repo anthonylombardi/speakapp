@@ -1,0 +1,70 @@
+id: 1
+name: Part 1
+
+The students in the class come from many countries.
+One of them is from Mexico while another is from Iraq.
+Others are from Brazil while others are from Algeria.
+I have three books. 
+Two are mine.
+The other book is yours. 
+The other is yours.
+Meanwhile, I'll be here for another three years.
+All the same, I need another five dollars.
+Despite that, we drove another ten miles.
+Anyhow, let's go to a movie.
+Anyway, let's not go to a movie.
+At any rate, let's stay home instead.
+Why don't we go to a movie?
+Why don't you come around seven?
+Why don't I give Mary a call?
+Shall I open the window? 
+Is that OK with you?
+Shall we leave at two?
+Let's go, shall we?
+Let's go, OK?
+We love having guests...
+and we've got plenty of room.
+What do you think I should do?
+I wouldn't do anything.
+I'd wait and see what happens.
+Electronic devices...
+may not be used during the flight.
+Could you tell me...
+when to get off ...
+at Trafalgar Square?
+Wouldn't it be fun to learn sailing!
+
+===
+id: 2
+name: Part 2
+
+May I use your mobile for a second?
+You may leave your name at the reception.
+He might be here in a short time.
+Might I borrow your pen?
+No doubt about it, you should get one for yourself.
+In any case, she should do well on the test.
+You'd better be on time, or we'll start without you.
+The meeting is supposed to begin at eight o'clock sharp.
+It's rather urgent that you are present.
+It shouldn't be a problem at all.
+I really must try to improve my living situation.
+Quite honestly, you mustn't go on like this.
+That's exactly why I have to speak with Karen today.
+Since she isn't here now, she must be sick.
+She'll certainly be here tomorrow.
+The phone's ringing.
+I'll get it.
+She says she's going to be here at six.
+In that case, I'm going to call it off.
+I can't go on like this.
+Anyway, you can use my car tomorrow if you like.
+Can I use the satellite navigator as well?
+Could you be careful about talking like that?
+You could get me in trouble.
+That couldn't be further from the truth!
+I'll be able to help you if everything works out.
+Would you please pass the salt?
+Would you mind if I left early?
+I would much rather go for a walk than stay home.
+I'd like an apple, please.

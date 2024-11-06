@@ -1,0 +1,80 @@
+id: 1
+name: Unit 36 Part1
+
+Leave me a message...
+and I'll get back to you...
+as soon as I can.
+Goodbye and take care.
+I'm looking for a wedding present.
+My cousin's getting married next week.
+What did you have in mind?
+What's the forecast for tomorrow?
+It's going to be a lovely day.
+Not too hot and not too cold.
+Shall we go for a walk in the country?
+Look at this traffic!
+We're going to be late!
+The shops close in ten minutes.
+We'll never get there in time.
+We had meetings...
+all day, every-day,
+before signing the contract.
+Eventually we made a deal...
+to share the shipping costs.
+Now everyone will be expected...
+to work overtime...
+till the end of the month.
+an hour's drive
+last year's sales figures
+You've made very good progress...
+over the last few weeks.
+I have my own way...
+of doing things.
+What made you decide...
+to leave Global Fashions?
+
+===
+id: 2
+name: Unit 36 Part2
+
+I was offered a better job...
+with really interesting prospects.
+I was in charge...
+of the Customer Service Department.
+What computer programs...
+are you familiar with?
+I can use Word and Excel.
+What would you consider...
+to be your strong points?
+I'm reliable,
+and I learn quickly.
+After finishing high school,
+I went straight to university.
+Later on, I realised...
+I'd made a serious mistake.
+Travel broadens the mind.
+Guests are advised ...
+not to leave valuable items...
+in their rooms.
+I had a very happy childhood.
+A child's character is formed...
+early on in life.
+You keep saying the same things...
+over and over.
+Have you got a double room...
+for tonight and tomorrow night?
+How much is the room?
+One hundred twenty...
+pounds a night.
+Could you sign the register?
+Here's your key.
+Hurry up! 
+It's getting late.
+We have to check in...
+at least an hour before the flight.
+Where did you get that camera?
+I got it in Hong Kong.
+You should try to study...
+at least an hour a day.
+The parcel got held up at Customs.
+It was Charles who solved the problem.

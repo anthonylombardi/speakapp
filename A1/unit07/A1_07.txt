@@ -1,0 +1,70 @@
+id: 1
+name: Part 1
+
+ What does Brad Thompson do?
+ He's a software engineer.
+ He works...
+ for a computer company.
+ He writes programmes.
+ What's he like?
+ He's very clever.
+ How much are those shoes?
+ The brown ones are
+ one hundred.
+ Don't forget.
+ Don't worry.
+ Don't be late.
+ What do you do?
+ I'm a journalist.
+ Really? Me too.
+ What a coincidence!
+ I work for the Sunday Times.
+ good - better - best
+ bad - worse - worst
+ William's got a new girlfriend.
+ What's she like?
+ She's very nice.
+ She's got dark hair and brown eyes.
+ What does she do?
+ She's a fashion model.
+ Hello?
+ Hello, Megan. It's Julia.
+ Oh, hi. How are you?
+ Fine, thanks.
+
+===
+id: 2
+name: Part 2
+
+ I've got something to tell you.
+ Anita's got a new boyfriend.
+ Really? What's he like?
+ He's got a very good job...
+ with a bank in the City.
+ What does he look like?
+ He's very handsome.
+ He looks like a movie star.
+ Excuse me,
+ have you got a moment?
+ Yes, of course.
+ I work for London Transport.
+ Can I ask you some questions?
+ Sure, go ahead.
+ Have you got a car?
+ Yes, I have.
+ Do you use it...
+ to go to the office?
+ No, I travel by train.
+ What time do you leave home?
+ At seven-thirty.
+ How do you get to work?
+ I walk to the bus stop.
+ I take the bus to the train station.
+ I take the train to the airport.
+ I fly to Heathrow.
+ Then I take a taxi...
+ to the office.
+ Where do you live?
+ I live in Paris.
+ Where do you work?
+ I work in London.

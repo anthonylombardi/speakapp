@@ -1,0 +1,69 @@
+id: 1
+name: Part 1
+
+ Where's the Underground station?
+ It's over there...
+ across the street.
+ What time is our plane?
+ What time is our train?
+ Is there a bank near here?
+ No, there isn't.
+ Is there a post office?
+ I'm not sure.
+ Come on!
+ Hurry up!
+ It's one o'clock.
+ Our train's at one-fifteen.
+ No, it isn't.
+ It's at one-fifty.
+ Are you sure?
+ Yes, I am.
+ I've got the tickets here.
+ Are they Scottish?
+ No, they aren't.
+ They're Irish.
+ Are you from Korea?
+ No, I'm not.
+ I'm from the Philippines.
+ Is Marie French?
+ No, she isn't.
+ She's Canadian.
+
+===
+id: 2
+name: Part 2
+
+ Is Frank a journalist?
+ No, he isn't.
+ He's an architect.
+ I'm hot.
+ I'm cold.
+ I'm right.
+ I'm wrong.
+ Can you come...
+ to the meeting this afternoon?
+ No, I can't.
+ I'm very busy.
+ Excuse me.
+ Can you repeat that?
+ Can you speak more slowly?
+ Thank you very much.
+ What's your favourite sport?
+ My favourite sport is basketball.
+ What's your favourite colour?
+ My favourite colour is green.
+ He's a good swimmer.
+ He's not a good driver.
+ She's a good singer.
+ She's not a good dancer.
+ Who's your favourite writer?
+ My favourite writer...
+ is Shakespeare.
+ Who's your favourite painter?
+ My favourite painter...
+ is Picasso.
+ Can I see you...
+ after the lesson?
+ Are you good at sports?
+ I'm a pretty good skier...
+ and I can swim very well.

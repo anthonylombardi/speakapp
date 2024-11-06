@@ -1,0 +1,65 @@
+id: 1
+name: Part 1
+
+Are you good at sports?
+ My tennis is pretty good...
+ and I'm an excellent swimmer.
+ What about music?
+ Well, I can play the guitar...
+ but I can't read music.
+ Can you sing?
+ Not very well.
+ What foreign languages...
+ do you speak?
+ French, Russian, Spanish,
+ Japanese and Arabic.
+ What does Susan do?
+ She's a music critic.
+ What an interesting job!
+ What does Robert do?
+ He's a pilot for British Airways.
+ Does he like his job?
+ Yes, he does.
+ I walk to work.
+ You walk to work.
+ She walks to work.
+ Monday, Tuesday
+ Wednesday, Thursday
+ Friday, Saturday, Sunday
+ Marconi studied physics...
+ at a technical school.
+ He discovered...
+ how to transmit radio waves.
+ Two years later,
+ he moved to England...
+ to continue his research.
+
+===
+id: 2
+name: Part 2
+
+ He transmitted radio signals...
+ across the Atlantic Ocean.
+ When Sally lived in Boston,
+ she studied at Harvard.
+ Her course lasted...
+ for four years.
+ Then she started working...
+ for a big company...
+ in California.
+ Her uncle is a physicist.
+ Her aunt is a biologist.
+ Her sister is a botanist.
+ Her brother is a geologist.
+ I always wanted...
+ to be an engineer.
+ Did you study engineering?
+ Yes, but I didn't graduate.
+ he tries - he tried
+ He didn't try.
+ she replies - she replied
+ She didn't reply.
+ I lived abroad...
+ for many years.
+ Did you miss your family?
+ Yes, I really missed them.

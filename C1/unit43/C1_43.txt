@@ -1,0 +1,58 @@
+id: 1
+name: Part 1
+
+Would you mind...
+giving me a lift to the station?
+She said she was pleased to be back.
+The other evening we were eating in a restaurant...
+when something funny happened.
+The cashier explained to him...
+that she couldn't open it...
+unless he ordered a meal.
+I think you're sitting in my seat.
+I'm sorry, I thought it was free.
+Would you mind moving your bag?
+Nevertheless, friends are important.
+Despite all of this, Grace still likes her classes.
+Sarah works on the programme ...
+while her husband watches the children.
+My friend lives in Moscow.
+My friends live in Shanghai.
+My brother and sister live in Seoul.
+My brother, sister, and cousin live in Tokyo.
+Every man, woman, and child needs love.
+Each book and magazine ...
+is listed in the card catalog.
+
+===
+id: 2
+name: Part 2
+
+My dog, as well as my cats, likes cat food.
+The book that I got my parents was very interesting.
+The ideas in that book are interesting.
+My dogs, as well as my cat, like cat food.
+The books I bought at the bookstore were expensive.
+Consequently, growing flowers is her hobby.
+That's exactly why some of the book is good.
+Some of the films are good as well.
+In the same way, a lot of the equipment is new.
+It follows that two-thirds of the money is mine.
+Two-thirds of the packets are mine.
+A lot of Daniel's friends are here.
+Only one of my friends is here.
+Each of my friends is here.
+Every one of my friends is here.
+None of the boys are here.
+The number of students in the class is fifteen.
+A number of students were late for the class.
+Could you tell me where I can get a ticket?
+Do you know if the last train has left?
+Most accidents happen in the home.
+Most of them could easily be avoided.
+It's been a wonderful evening.
+I had a really good time.
+It was a pleasure.
+I do hope you'll come again soon.
+The results of the election...
+were disappointing.

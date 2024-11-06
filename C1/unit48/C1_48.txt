@@ -1,0 +1,72 @@
+id: 1
+name: Part 1
+
+A politician and his assistant were on safari in Africa.
+A lion jumped out in front of them and started snarling.
+The assistant said, "What should we do?"
+The politician replied, "I'm going to run for my life."
+The assistant cried, "We'll never be able to outrun a lion!"
+The politician started sprinting and said,
+"I don't have to outrun the lion my friend,
+I only have to outrun you."
+Better to be alone than in bad company.
+Those who live in glass houses should not throw stones.
+When the cat's away, the mice will play.
+I told the mechanic...
+to check the brakes.
+Then I asked him...
+to look at the battery.
+He advised me to sell the car...
+before it fell to pieces.
+I promised my mother...
+I'd be home for her birthday...
+but my flight's been cancelled.
+I asked them how they felt...
+about their relationship.
+
+===
+id: 2
+name: Part 2
+
+"I watch TV every day."
+She said she watched TV every day.
+"I am having my tea."
+He said he was having his tea.
+"I've been here before."
+She said she'd been there before.
+"They smiled innocently."
+She said they'd smiled innocently.
+"We'd never been so happy."
+They said they'd never been so happy.
+"I'll do this right away ."
+I said I'd do this right away.
+"I'm going to stop soon."
+I said I was going to stop soon.
+"I can't stand my job."
+She said she couldn't stand her job.
+"I may look for another."
+She said she might look for another.
+"I must go now."
+He said he had to go then.
+"I shouldn't take on any more work."
+She said she shouldn't take on any more work.
+"I might watch TV."
+She said she might watch TV.
+"Watch TV."
+She told me to watch TV.
+What did the teacher just say? 
+I didn't hear him.
+He said he wants us to read Chapter Six.
+I didn't go to work yesterday.
+Did Mr. Jones make any assignments?
+Yes, he said he wanted us to read Chapter Six.
+The teacher demands that we be on time.
+I insisted that he pay me the money.
+I recommended that she not go to the concert.
+It's important that they be told the truth.
+I suggested that she see a doctor.
+She suggested that he should see a lawyer.
+The travellers were advised that the insurance was a fraud.
+They immediately asked that they be reimbursed.
+The company demands that all receipts be honoured.
+Nonetheless, the lawyers recommend that the case be closed.

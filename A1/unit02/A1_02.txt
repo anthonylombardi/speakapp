@@ -1,0 +1,88 @@
+id: 1
+name: Part 1
+
+It's not very late.
+I'm not very tired.
+It's not a long flight.
+It's not very far.
+Are you English?
+No, I'm not English.
+Where are you from?
+I'm Welsh,
+from Cardiff.
+Where is that exactly?
+It's in South Wales.
+It's not a very big city.
+What's the Japanese word...
+for ‘agency’?
+What's another English word...
+for ‘country’?
+What's your first name?
+What's your last name?
+What's your phone number?
+What's your address?
+My phone number is here.
+My address...
+is thirteen Barnett Street.
+thirteen
+fourteen
+fifteen
+sixteen
+seventeen
+eighteen
+nineteen
+Are you married?
+Have you got any children?
+What are their names?
+We've got two children -
+a girl and a boy.
+The girl's name is Liza…
+and the boy's name is John.
+They're wonderful kids.
+
+===
+id: 2
+name: Part 2
+
+thirteen
+thirty
+fourteen
+forty
+fifteen
+fifty
+sixteen
+sixty
+ Has she got...
+ any brothers and sisters?
+ She's got two sisters...
+ but she hasn't got any brothers.
+ How old are they?
+ Maggie's nineteen...
+ and Helen's twenty-two.
+ twenty, thirty, forty, fifty
+ sixty, seventy, eighty, ninety
+ Pam's boyfriend
+ Helen's husband
+ This is my wife,
+ these are our daughters,
+ and this is a photograph...
+ of our son...
+ and his girlfriend.
+ These are my parents.
+ How old are they?
+ My mother's sixty-eight...
+ and my father's seventy-one.
+ That's all for now.
+ Any questions?
+ Are you ready?
+ Yes, I am. No, I'm not.
+ Are we late?
+ Yes, we are. No, we're not.
+ Is it far?
+ Yes, it is. No, it's not.
+ Is he Scottish?
+ Yes, he is. No, he's not.
+ Is she Irish?
+ Yes, she is. No, she's not.
+ Are they married?
+ Yes, they are. No, they're not.

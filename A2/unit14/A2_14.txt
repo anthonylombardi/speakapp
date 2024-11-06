@@ -1,0 +1,72 @@
+id: 1
+name: Part A
+
+Can I see you...
+ for a few minutes?
+ No, I'm busy now.
+ I've got an appointment.
+ But I should be free...
+ at two-thirty.
+ Shall we meet then?
+ I've got to go now.
+ I've got to be at the airport...
+ at one-thirty...
+ to meet my friend David.
+ It's hot in here.
+ Shall I open the window?
+ It's time to start the meeting.
+ Shall I close the door?
+ I read the book last year.
+ I saw the film last month.
+ I bought the DVD last week.
+ Shall we watch it tonight?
+ When can we meet?
+ Let's see...
+ Have you got a calendar?
+ Have you got your diary?
+ Let's make it Friday...
+ at nine-fifteen.
+ That's fine.
+ See you then.
+ next week, next month, next year
+ I've got a date with Susan.
+ We're meeting at the station.
+ We're going into town...
+ to see the exhibition.
+ Would you like to join us?
+
+===
+id: 2
+name: Part B
+
+I'd like to make an appointment...
+ to see Doctor Bell.
+ Can you come on Monday the nineth,
+ at nine-forty five?
+ What are you doing for Christmas?
+ I'm spending the holidays...
+ at home with my family.
+ Where's Misaki?
+ She should be at the office.
+ Why don't you call her there?
+ I can't understand him.
+ He speaks too fast.
+ Jack's going to go on a diet.
+ He wants to lose some weight.
+ Linda's going to give up smoking.
+ She smokes two packets a day.
+ I'm going to learn Chinese.
+ Do you think you can do it?
+ I'm going to try.
+ forty words a minute
+ fifty miles an hour
+ twenty four-hours a day
+ seven days a week
+ When are you going...
+ to answer those letters?
+ When are you going to finish...
+ writing that report?
+ We've got to stop...
+ wasting so much time.
+ Never put off till tomorrow...
+ what you can do today.

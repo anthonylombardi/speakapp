@@ -1,0 +1,72 @@
+id: 1
+name: Part A
+
+What's the problem?
+What can I do for you?
+I need some information.
+I need your advice.
+Business wasn't very good last year,
+but this year it's better.
+Hello?
+Sorry, I can't hear you.
+The kids are making too much noise.
+What are they doing?
+Ann's watching a video...
+in the living room.
+Paul's listening to rock music...
+in his bedroom.
+What are you doing?
+I'm busy in the kitchen.
+I'm trying to make dinner.
+Well, I'll call back...
+a little later.
+How's that big project going?
+Well, we're making progress.
+Slowly but surely.
+That's good to hear.
+In fact, we expect to finish...
+by the end of the month.
+What about you?
+We're having some problems...
+in the office.
+Well, don't get depressed.
+Let me buy you a drink.
+Thanks, but it's getting late.
+Maybe next time.
+
+===
+id: 2
+name: Part B
+
+The phone's ringing.
+Can you answer it?
+Sorry, I can't.
+I'm washing my hair.
+Well, I'm cooking dinner.
+Let it ring, then.
+They can leave a message...
+on the answering machine.
+The swimming pool was crowded.
+There were too many people...
+and there was too much noise.
+I did my homework.
+I made a mistake.
+The company is growing.
+Business is improving.
+We're selling our products...
+all over the world.
+I can't see the road signs.
+There's too much fog.
+I didn't buy that coat.
+It was too expensive.
+The test was too long.
+The questions were too difficult. 
+I got to school just in time.
+I got home very late.
+Where are you going...
+for your holidays this year?
+We're going to Dubai in June.
+Didn't you go there last year?
+Yes, we did.
+We really liked it,
+so we're going again.

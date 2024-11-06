@@ -1,0 +1,82 @@
+id: 1
+name: Group1
+
+How long...
+have you been feeling this way?
+For a couple of weeks.
+You're going to need an X-ray...
+and a CT scan.
+It may not be anything serious...
+but you can't be too careful.
+Why are you mad at me?
+What did I do?
+You forgot my birthday!
+I'm sorry, I didn't mean to.
+Everyone in my office...
+is down with the flu.
+I'm the only one...
+who hasn't got it.
+When I finish this report...
+I'll have to do the accounts.
+It's a job that has to be done...
+but it's not a job I enjoy.
+When my car broke down,
+I had to get the AA...
+to send a tow truck.
+I met someone last night...
+who knows you.
+She talked about herself...
+the whole evening.
+I bumped into an old friend...
+at the airport in Frankfurt.
+We hadn't seen each other...
+since university.
+Would you like to join us for dinner?
+Thank you, I'd love to.
+What does Martin's girlfriend do?
+She works for an advertising agency.
+
+===
+id: 2
+name: Group 2
+
+ What's she like?
+She's tall and slim.
+She looks like a fashion model.
+How much are those shoes?
+The green ones are ninety five.
+The red ones are one hundred forty.
+Hello?
+Hello, Jim. It's Paul.
+good - better - best
+bad - worse - worst
+Don't forget!
+Don't worry!
+Don't be late!
+I told the mechanic...
+to check the brakes.
+Then I asked him...
+to look at the battery.
+He advised me to sell the car...
+before it fell to pieces.
+How come...
+the weather's always awful...
+at the weekend...
+and fine on Monday?
+I feel like going to the cinema.
+What's on?
+the week before
+the month before
+the year before
+the following day
+I'm really upset.
+How come?
+I promised my mother...
+I'd be home for her birthday...
+but my flight's been cancelled...
+because of the strike.
+They told me...
+they'd give me a refund.
+It's the least they can do,
+but I won't believe it...
+until it actually happens.

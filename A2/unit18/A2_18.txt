@@ -1,0 +1,72 @@
+id: 1
+name: Part A
+
+How long have you known Susan?
+ I've known her for a while.
+ Do you know her husband?
+ No, I've never met him.
+ I won't be able...
+ to meet you this afternoon,
+ but I should be able...
+ to see you tomorrow morning.
+ I've got to go to the bank today.
+ I've got to get some cash.
+ I've only got...
+ two thousand in the bank.
+ How long have you been married?
+ We've been married...
+ for fifteen years.
+ We met in the Bahamas.
+ We got married in Moscow.
+ We've lived in Kenya...
+ since last year.
+ That's a nice cabin bag.
+ Is it new?
+ No, I've had it for a while.
+ I've had it since Christmas.
+ speak - spoke - spoken
+ write - wrote - written
+ ‘Saturday’ is written...
+ with a capital S.
+ Have we got time for a walk...
+ before lunch?
+ Yes, it's only eleven-thirty.
+ see - saw - seen
+ be - was - been
+ I haven't seen you for ages.
+ How long has it been?
+
+===
+id: 2
+name: Part B
+
+a couple of weeks
+ a couple of months
+ a couple of years
+ We can't afford...
+ to miss this opportunity.
+ I didn't know you spoke Russian.
+ I was having lunch...
+ the other day...
+ in a restaurant near my office.
+ The couple at the next table...
+ were eating their meal in silence.
+ After a while, the young man said,
+ ‘What are you thinking about, darling?’
+ The girl stopped eating...
+ and looked at him tenderly.
+ ‘I was thinking, my dear,
+ that silence must be a sign of love.’
+ An attempted robbery...
+ at a local grocer's shop...
+ failed last night.
+ One of the robbers...
+ was wearing a blonde wig...
+ and a long white dress.
+ The other was wearing...
+ a fancy dress costume.
+ When the cashier saw them,
+ she screamed so much...
+ that they ran away,
+ leaving the money on the floor...
+ in a blue plastic shopping bag.

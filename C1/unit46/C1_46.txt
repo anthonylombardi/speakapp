@@ -1,0 +1,66 @@
+id: 1
+name: Part 1
+
+Dinner was over...
+and several of the guests...
+had ordered drinks.
+Somebody screamed.
+That must have been such fun!
+He phoned to say...
+he'd been caught in the traffic.
+That must have been...
+so disappointing.
+The book was so gripping...
+I couldn't put it down.
+I locked the door five minutes ago.
+The door was locked by me five minutes ago.
+Now the door is locked.
+Andy broke the window yesterday.
+The window was broken by Andy.
+Now the window is broken.
+I'm interested in Chinese art.
+He's satisfied with his job.
+Emily is married to Alex.
+I don't know where I am. 
+I'm lost.
+I can't find my purse. 
+It's gone.
+I'm finished with my work.
+I'm done with my work.
+He's not accustomed to finishing after a deadline.
+He'd like to be acquainted with the subject.
+But he's been so bored with school lately.
+
+===
+id: 2
+name: Part 2
+
+I told him to be more dedicated to his studies.
+He replied that he was exhausted from work.
+Benny and Karen haven't been filled with such joy ...
+since they were frightened by the housing crisis.
+He said he was interested in archaeology,
+and he'd been involved in several important discoveries.
+One in particular was renowned the world over.
+However, your access is limited to one user only.
+The production plant is located in China.
+This new line of products is made of natural materials.
+They've been married to each other for ages.
+Above all, they're quite pleased with their children.
+In a way, they've been protected from a lot of suffering.
+In any case, he's not qualified for the job at all.
+His past experiences aren't related to what we need.
+Sales have increased...
+by twenty %.
+We couldn't have done it without you.
+A massive increase in spending...
+will boost the economy.
+She asked him...
+if he still loved her.
+He wondered ...
+why she wanted to know.
+Yuna lives in Tokyo with her husband and two children.
+Where does that incredible politician stay?
+He stays wherever he wants, whenever he wants to.
+Incidentally, I know the restaurant where he often eats.
+That's interesting, could you tell me more?

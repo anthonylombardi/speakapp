@@ -1,0 +1,76 @@
+id: 1
+name: Group1
+
+Marconi discovered...
+how to transmit radio waves.
+He moved to England...
+to continue his research.
+He lived and worked abroad...
+for many years.
+Did you enjoy the film last night?
+How long did it last?
+My uncle is a physicist.
+My aunt is a biologist.
+I studied political science.
+I graduated two years ago.
+Is it true they're going to freeze...
+the price of petrol?
+I hope so...
+but I don't think so.
+Let's move on...
+to our next point for discussion.
+Would it be alright...
+if I took some time off next week?
+I have to get my passport renewed.
+I suppose so.
+If I didn't know him better...
+I'd say he was lying.
+I don't know him well enough...
+to be able to judge.
+Nothing ever gets done...
+unless I do it.
+I beg your pardon?
+You're wrong, you know.
+I'm sorry to contradict you...
+but there's obviously been a mistake.
+That's enough!
+
+===
+id: 2
+name: Group 2
+
+Perhaps it was...
+a misunderstanding.
+If only there were some way...
+of avoiding a confrontation.
+I wish...
+you wouldn't keep interrupting.
+I wish the bus would come.
+Our deadline...
+is the day after tomorrow, right?
+I'm afraid so.
+Well, it won't be my fault...
+if we're not ready.
+We'd do a much better job...
+if we had more time.
+What exactly do you mean by that?
+I told them the plan wouldn't work...
+but nobody would listen.
+Lack of funds.
+Lack of human resources.
+I wish you'd stop being so negative.
+Did you have a good holiday?
+Where did you go?
+We went to Spain.
+We had a wonderful time.
+What was the weather like?
+It wasn't bad.
+I have to go now.
+I have to meet Maureen...
+at ten-fifteen.
+Did you have a good time at the party?
+Did you meet any interesting people?
+I teach - I taught
+I buy - I bought
+I missed the bus...
+and I had to walk.

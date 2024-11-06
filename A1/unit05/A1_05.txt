@@ -1,0 +1,72 @@
+id: 1
+name: Part 1
+
+ What about music?
+ I can play the saxophone...
+ but I can't read music.
+ Can you sing?
+ Not very well.
+ What foreign languages...
+ can you speak?
+ Russian and Chinese...
+ and a little German.
+ She's perfect for the job.
+ She can sail.
+ She can surf.
+ She can speak Japanese.
+ She can use a computer...
+ and she's an excellent cook.
+ Can she drive a car?
+ No, she can't.
+ Can she play the guitar?
+ Yes, she can.
+ I can't believe it!
+ Has she got any references?
+ How much sugar...
+ do you take in your tea?
+ I don't take sugar.
+ What's your favourite dish?
+ I love roast beef.
+ We have it every Sunday.
+ What newspaper do you read?
+ I read the Guardian.
+ What magazines do you read?
+ I read the Economist...
+ and Newsweek.
+ I buy them every week.
+
+===
+id: 2
+name: Part 2
+
+What's her name?
+ Her name is Kate Ryan.
+ Where does she work?
+ She works at the university.
+ She's a research assistant.
+ Where does she live?
+ She lives near me.
+ Can she come on Monday?
+ No, she can't.
+ Is she free on Tuesday?
+ No, she isn't.
+ What about Wednesday?
+ Wednesday is fine.
+ Where do you live?
+ I live in Brighton.
+ Where do you work?
+ I work in London.
+ I'm a lawyer.
+ I work...
+ for an insurance company.
+ That's interesting.
+ Are you busy on Thursday?
+ Yes, I am.
+ Can we meet on Friday?
+ Yes, we can.
+ My favourite days...
+ are Saturday and Sunday.
+ What do you say...
+ when you meet a person...
+ for the first time?
+ Nice to meet you.

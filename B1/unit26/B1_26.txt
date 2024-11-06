@@ -1,0 +1,83 @@
+id: 1
+name: Group1
+
+What does this word mean?
+ How do you pronounce it?
+ How do you spell it?
+ What do you say...
+ when you meet a person...
+ for the first time?
+ Nice to meet you.
+ Where does your sister work?
+ She's a research assistant.
+ She works at the university.
+ Are you busy on Tuesday?
+ What about Wednesday?
+ Can we meet on Thursday?
+ No, but I'm free on Friday.
+ I've arranged a meeting...
+ for Monday week...
+ to discuss the results...
+ of the latest survey.
+ Sales have increased...
+ by twenty %
+ both in supermarkets...
+ and in grocer's shops.
+ Congratulations...
+ on an excellent job.
+ We couldn't have done it without you.
+ Everyone's very impressed.
+ You're a great team!
+ Keep up the good work!
+ I don't know which shirt to buy.
+ Why don't you buy them both?
+ A massive increase in spending...
+ will boost the economy.
+ Do you see what I mean?
+ I'm doing my best.
+
+===
+id: 2
+name: Group 2
+
+  Everything seems to be getting...
+ more and more expensive.
+ £ one hundred ...
+ is the most we can afford.
+ Money makes the world go round.
+ Do you mind...
+ if we change the subject?
+ She asked him...
+ if he still loved her.
+ He wondered ...
+ why she wanted to know.
+ Some people...
+ always expect the worst.
+ My father is actually ...
+ much older than he looks.
+ You're only as old as you feel.
+ Things aren't as bad as they seem.
+ Why are your eyes so red?
+ Because I'm allergic to...
+ something in the air.
+ autumn leaves
+ winter sports
+ spring rain
+ I like reading novels.
+ I don't like writing letters.
+ I never watch TV.
+ Do you like going to the cinema?
+ What kind of films do you like?
+ Thrillers and comedies.
+ Do you prefer tea or coffee?
+ I prefer coffee in the morning...
+ and tea in the afternoon.
+ What a beautiful apartment!
+ What a wonderful view!
+What are your symptoms?
+I'm not sleeping well.
+I feel dizzy and weak.
+I'd better have a look at you.
+Take a deep breath.
+Does this hurt?
+Ouch! Yes, it does!

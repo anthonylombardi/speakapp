@@ -1,0 +1,63 @@
+id: 1
+name: Part 1
+
+It often snows in Alaska.
+Tom watches a movie every day.
+It rained yesterday.
+Ella watched television last night.
+It'll be nice tomorrow.
+It's going to be awful this weekend.
+Emily will look at the article next time.
+William's going to watch TV tonight.
+Olivia's sleeping right now.
+She was sleeping when I arrived.
+He'll probably be working when we arrive.
+Misaki has already eaten.
+Ella had already finished when her friend arrived.
+Yamato will already have left ...
+when his friend arrives.
+He's been studying for hours.
+She had been studying for two hours ...
+before her friend came.
+Thomas will have been walking for three hours ...
+by the time his friend calls.
+Attending a wedding for the first time,
+a little girl whispered to her mother,
+Why is the bride dressed in white?
+The mother replied,
+Because white is the colour of happiness,
+and today is the happiest day of her life.
+The child thought about this for a moment, then said,
+So why is the groom wearing black?
+
+===
+id: 2
+name: Part 2
+
+I'm coming to Newcastle.
+What about meeting for lunch?
+I'll be free around one.
+We're going to take off in five minutes
+What about going out for a meal?
+That sounds great.
+It's difficult to remember...
+all these rules.
+Learning a foreign language...
+takes time and patience.
+To begin with, Ann is very sick today.
+Likewise, Alice is nervous about the exam.
+Jack doesn't feel well, but he refuses to see a doctor.
+Frankly speaking, I think he's being quite foolish.
+Sue's being very quiet today.
+I wonder if anything is wrong.
+generous, funny, fair, kind and logical
+cruel, illogical, impolite, irresponsible and lazy
+I'll begin to study at seven ...
+whereas you'll be here at eight.
+In other words, I'll be studying when you come.
+Don't call me at nine because I won't be home.
+I'm going to be shopping at the mall.
+Don't get impatient. 
+She'll be coming soon.
+Don't get irritated. 
+It'll only make you feel worse.

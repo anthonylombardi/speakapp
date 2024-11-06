@@ -1,0 +1,73 @@
+id: 1
+name: Part A
+
+a European country
+ a university professor
+ an honest person
+ an hour ago
+ You should drink less coffee.
+ You should use less sugar.
+ I've got to get more exercise.
+ We need more time...
+ to think about their proposal.
+ What time did you go to bed last night?
+ I went to bed...
+ at eleven-thirty.
+ What time did you get up this morning?
+ I got up...
+ at seven.
+ If you want to lose weight...
+ you've got to eat less.
+ If you want to save money...
+ you've got to spend less.
+ If you want to pass your test...
+ you've got to study more.
+ I get up at seven-fifteen.
+ I usually get to the University...
+ by nine.
+ I'm looking for a wedding present.
+ What did you have in mind?
+ Something for the house.
+ Something for the kitchen.
+ How about this coffee maker?
+ How much is it?
+ seventy nine-ninety nine
+ I'll take it.
+ half past
+===
+id: 2
+name: Part B
+
+What time did that program begin?
+ It began at eight.
+ It'll be over...
+ in a few minutes.
+ My cousin's getting married next week.
+ The wedding's on Saturday.
+ Do you think she'll like my present?
+ I'm sure she will.
+ Look at this traffic!
+ We're going to be late!
+ The shops close in ten minutes.
+ We'll never get there in time.
+ Is there anything to eat?
+ Is there anything to drink?
+ There's nothing in the fridge.
+ What's the forecast for tomorrow?
+ It's going to be a lovely day.
+ Not too hot...
+ and not too cold.
+ Shall we go...
+ for a walk in the country?
+ Good idea!
+ Can you help me?
+ I'm looking for my glasses.
+ I can never find them...
+ when I need them.
+ I find - I don't find
+ I found - I didn't find
+ I'll find - I won't find
+ The weather forecast...
+ says it's going to be cold tonight.
+ Do you think it'll snow?
+ I really don't know.

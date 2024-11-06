@@ -1,0 +1,78 @@
+id: 1
+name: Group1
+
+ Hi, Mike!
+ How's the new job?
+ Do you get along well with your colleagues?
+ Guess what -
+ I'm coming to Newcastle.
+ What about meeting for lunch.
+ I'll be free around one.
+ How does that sound?
+ I'm looking forward to seeing you...
+ and catching up...
+ on all the gossip.
+ All the best,
+ Dan
+ What's the latest news on the strike?
+ It's been called off.
+ If all goes well,
+ we'll be home before dark.
+ There were over two hundred guests...
+ at the reception.
+ The host proposed a toast.
+ Be careful of pickpockets...
+ as you leave the cathedral.
+ Thanks for the tip.
+ We're going to take off in five minutes.
+ Please switch off your cell phones.
+ I've got a surprise for you.
+ Guess what it is.
+ Don't say another word.
+ Tell me when we get home.
+ What about going out for a meal?
+ That sounds great.
+ It's difficult to remember...
+ all these rules.
+ Learning a foreign language...
+ takes time and patience.
+
+===
+id: 2
+name: Group 2
+
+ I'd like to take...
+ a five-minute break.
+ The people upstairs
+ are driving me crazy.
+ This is my friend Rebecca.
+ Rebecca's a journalist.
+ She is Australian from Melbourne.
+ She works for Time magazine.
+ Nice to meet you.
+ A beautiful Monday morning.
+ Good morning.
+ Good afternoon.
+ Good evening.
+ It's getting late.
+ I'm getting tired.
+ Good night.
+ According to our market research,
+ the target group...
+ is young parents.
+ What kind of campaign...
+ are you planning?
+ TV and radio commercials...
+ newspaper and magazine advertising.
+ When's the deadline?
+ Everything will have to be ready...
+ by the end of August.
+ All the information you need...
+ is in these folders.
+ How are things?
+ Pretty terrible, actually.
+ My car won't start.
+ My clients won't pay.
+ I won't be able...
+ to take any time off...
+ until Christmas.

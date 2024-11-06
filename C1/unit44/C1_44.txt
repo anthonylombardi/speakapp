@@ -1,0 +1,62 @@
+id: 1
+name: Part 1
+
+You look like you've had a bad day.
+There are twenty students in my class.
+There's a fly in the room.
+There are seven continents.
+There is a book on the shelf.
+There are some books on the shelves.
+There's some ham in the fridge.
+The United States is big.
+The Philippines consists of more than seven thousand islands.
+The United Nations has its headquarters in New York.
+Harrods is a famous department store in London.
+The news is interesting.
+Mathematics is easy for her.
+Physics is easy for her as well.
+Diabetes is an illness.
+Eight hours of sleep is enough.
+Ten dollars is too much to pay.
+Five thousand miles is too far to travel.
+Two and two is four.
+Two and two equals four.
+Twenty two plus twenty two equals forty four.
+Five times five is twenty five.
+
+===
+id: 2
+name: Part 2
+
+Those people are from Canada.
+The police have been called.
+Cattle are domestic animals.
+English is spoken in many countries.
+The English drink tea.
+Chinese is his native language.
+The Chinese have an interesting history.
+The poor have many problems.
+The rich get richer.
+I've been living here...
+since I came to London.
+Would you like me to do the washing up?
+They want us to be there...
+by the end of the year.
+I hate leaving things till the last minute.
+I prefer to finish everything in time.
+Try looking at it from my point of view.
+I'd advise you to contact a lawyer.
+The insurance company...
+has agreed to pay all the expenses.
+Jane's been here only two weeks,
+but she has already made a few friends.
+All in all, I'm very pleased.
+I’ve been able to save a little money this month.
+As a result, I feel sorry for her.
+That is to say, she has very few acquaintances.
+Frankly speaking, I've little time for any of this.
+I don't even have enough cash on me.
+My family is large.
+It's composed of nine members.
+My family is both loving and supportive.
+For instance, they are always ready to help me.

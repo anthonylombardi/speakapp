@@ -1,0 +1,59 @@
+id: 1
+name: Part 1
+
+It's vital that we feel good about ourselves.
+It was one of those times...
+when everything seemed to go wrong.
+There are only two or three people here...
+whose names I know.
+You'll have a great party...
+if you plan it carefully.
+It sounds too good to be true.
+Which book did you buy in the end?
+The one you recommended.
+There is someone whom I want you to meet.
+Everything he said was pure nonsense.
+Anybody who wants to come is welcome.
+Paula was the only one I knew at the party.
+Scholarships are available for those who need financial help.
+It is I who am responsible.
+He who laughs last laughs best.
+The professor who teaches Chemistry is an excellent reader.
+Professor Wilson, who teaches Chemistry, is an excellent reader.
+Hawaii, which consists of eight islands is a good vacation spot.
+Mrs. Smith, who is a retired teacher, does volunteer work.
+The man who I met teaches Economics.
+Mr. Lee, whom I met yesterday, teaches Economics.
+
+===
+id: 2
+name: Part 2
+
+We took some children on a picnic.
+The children, who wanted to play soccer,
+ran to an open field as soon as we arrived at the park.
+The children who wanted to play soccer ran to an open field ...
+as soon as we arrived at the park.
+The others played a different game.
+In my class there are twenty students.
+Most of them are from the Far East.
+In my class there are twenty students,
+most of whom are from Asia.
+He gave several reasons.
+Only a few of them were valid.
+He gave several reasons, only a few of which were valid.
+The teachers discussed Jim.
+One of his problems was poor study habits.
+They discussed Jim, one of whose problems was lack of sleep.
+Jack of all trades, master of none.
+One man's loss is another man's gain.
+Is it true they are going to freeze...
+the price of petrol?
+I hope so...
+but I don't think so.
+Let's move on...
+to our next point for discussion.
+Our deadline...
+is the day after tomorrow, right?
+I'm afraid so.
+I wish you'd stop being so negative.

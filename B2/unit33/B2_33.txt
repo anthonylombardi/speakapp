@@ -1,0 +1,81 @@
+id: 1
+name: Unit 33 Part1
+
+If you happen to see Lee...
+please give her my regards.
+She's a very dear friend of mine.
+If only we'd known then...
+what we know now.
+Did you enjoy the show?
+Yes, I did.
+It was better than I expected.
+We need more information.
+We need some good advice.
+It's hot in summer.
+It's cold in winter.
+It's cool in autumn.
+It's warm in spring.
+Business is not very good this year...
+but last year it was worse.
+The test wasn't very easy.
+It was more difficult than I thought.
+We had dinner last night...
+at Grandma's Kitchen.
+I heard about it...
+on the radio.
+Who did you go with?
+I went with my sister-in-law...
+What an experience!
+The food was delicious.
+Everything was beautifully served...
+on lovely old blue and white china...
+just like my mother used to have.
+It was quite expensive...
+but it was worth it.
+
+===
+id: 2
+name: Unit 33 Part2
+
+How nice to see you again.
+How you've changed!
+I didn't even recognise you.
+Didn't you use to have a beard?
+Yes, I did.
+But that was quite a long time ago.
+How time flies!
+I saw it on television.
+I read about it in the paper.
+Earth was once considered...
+the centre of the universe.
+The news...
+spoilt my whole day.
+What nice weather we've been having.
+I used to love the heat,
+but now I can't stand it.
+Paul's getting married!
+How exciting! 
+Who to?
+I've been studying so hard,
+I even dream in English.
+This printer is so simple...
+even a child could use it.
+At least a dozen eggs.
+About half a litre of milk.
+Two or three spoonfuls...
+of good brandy.
+The company is growing.
+Business is improving.
+How's that new project going?
+We're having some problems...
+but we're making progress.
+We expect to finish...
+by the end of November.
+The test was too long.
+The questions were too difficult.
+There were too many people...
+and there was too much noise.
+The phone's ringing.
+Can you answer it?
+What's the next item...
+on the programme?
